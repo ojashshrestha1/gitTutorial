@@ -1,0 +1,39 @@
+Tirtha Raj Pokhrel
+Dipu Dangol
+- Senior Software Developer- 
+
+4 Years of Experience
+
+Mean Stack (Combination of all)
+Node JS
+
+
+Mean Stack: Javascript 
+
+Node.js (Backend)
+Angular JS( HTML lookalike code for Frontend) - Developed by google
+mongoDB - First Ever leading no sql database
+Expressjs
+ReactJS (Same for Web and for Mobile too)
+
+
+Install git bash
+open git bash
+
+Open Browser
+go to github.com
+create new repository
+
+now in folder in pc, Create a new file in one drive
+
+type: git status
+see what output
+
+now to commit, get into the gitbash here(left click in the folder page)
+type:git add .
+
+not use git status to see the difference
+ git config --edit
+
+
+Semi Colon q
